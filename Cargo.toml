@@ -1,0 +1,7 @@
+[package]
+name = "toy-rust-sudoku"
+version = "0.1.0"
+authors = ["Cory Forsyth <cory.forsyth@gmail.com>"]
+
+[dependencies]
+sdl2 = "*"
